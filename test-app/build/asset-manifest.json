@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MS-FRONT/static/css/main.462d3aaf.chunk.css",
+    "main.js": "/MS-FRONT/static/js/main.27101b3e.chunk.js",
+    "main.js.map": "/MS-FRONT/static/js/main.27101b3e.chunk.js.map",
+    "runtime-main.js": "/MS-FRONT/static/js/runtime-main.7cf6401c.js",
+    "runtime-main.js.map": "/MS-FRONT/static/js/runtime-main.7cf6401c.js.map",
+    "static/js/2.7a1bccef.chunk.js": "/MS-FRONT/static/js/2.7a1bccef.chunk.js",
+    "static/js/2.7a1bccef.chunk.js.map": "/MS-FRONT/static/js/2.7a1bccef.chunk.js.map",
+    "index.html": "/MS-FRONT/index.html",
+    "precache-manifest.d463dd0b81788d5e734392761c8ddc88.js": "/MS-FRONT/precache-manifest.d463dd0b81788d5e734392761c8ddc88.js",
+    "service-worker.js": "/MS-FRONT/service-worker.js",
+    "static/css/main.462d3aaf.chunk.css.map": "/MS-FRONT/static/css/main.462d3aaf.chunk.css.map",
+    "static/js/2.7a1bccef.chunk.js.LICENSE.txt": "/MS-FRONT/static/js/2.7a1bccef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cf6401c.js",
+    "static/js/2.7a1bccef.chunk.js",
+    "static/css/main.462d3aaf.chunk.css",
+    "static/js/main.27101b3e.chunk.js"
+  ]
+}
